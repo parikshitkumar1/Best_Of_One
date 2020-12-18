@@ -18,9 +18,10 @@ Extra Requirements: well lit area, white background,right hand is preferred.</br
 ## Examples
 ![ezgif-3-79fbb1446d67](https://user-images.githubusercontent.com/52780573/102655989-3599b680-4199-11eb-9f91-dc037b4d0708.gif)
 
-![20201115_125931](https://user-images.githubusercontent.com/52780573/99179632-8b67e280-2745-11eb-9043-cd36442436e5.jpg)
+![Screenshot from 2020-12-19 01-10-53](https://user-images.githubusercontent.com/52780573/102656071-582bcf80-4199-11eb-9414-a79794b772b6.png)
 
-![20201115_125939](https://user-images.githubusercontent.com/52780573/99179636-96227780-2745-11eb-8853-38e016379a92.jpg)
+![Screenshot from 2020-12-19 01-10-31](https://user-images.githubusercontent.com/52780573/102656137-6974dc00-4199-11eb-9e84-b6025ccfa1bd.png)
+
 
 ## To do
 - [ ] Get more data for a better none class and less change susceptibility
