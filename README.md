@@ -16,7 +16,7 @@ $ python3 rps.py
 OpenCV file derived from a similar file which can be found here: https://github.com/SouravJohar/rock-paper-scissors/blob/master/play.py </br> </br>
 Extra Requirements: well lit area, white background,right hand is preferred.</br> </br>
 ## Examples
-![20201115_125920](https://user-images.githubusercontent.com/52780573/99179626-7c813000-2745-11eb-86d7-bf2300e1343e.jpg)
+![ezgif-3-79fbb1446d67](https://user-images.githubusercontent.com/52780573/102655989-3599b680-4199-11eb-9f91-dc037b4d0708.gif)
 
 ![20201115_125931](https://user-images.githubusercontent.com/52780573/99179632-8b67e280-2745-11eb-9043-cd36442436e5.jpg)
 
