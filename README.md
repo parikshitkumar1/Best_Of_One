@@ -29,6 +29,7 @@ Extra Requirements: well lit area, white background,right hand is preferred.</br
 ## To do
 - [ ] Get more data for a better none class and less change susceptibility
 - [ ] Retrain with more data that has different backgrounds
+
 ---
 
 
