@@ -16,13 +16,14 @@ $ python3 rps.py
 OpenCV file derived from a similar file which can be found here: https://github.com/SouravJohar/rock-paper-scissors/blob/master/play.py </br> </br>
 Extra Requirements: well lit area, white background,right hand is preferred.</br> </br>
 ## Examples
-![ezgif-3-79fbb1446d67](https://user-images.githubusercontent.com/52780573/102655989-3599b680-4199-11eb-9f91-dc037b4d0708.gif)
 
-![Screenshot from 2020-12-19 01-10-53](https://user-images.githubusercontent.com/52780573/102656071-582bcf80-4199-11eb-9414-a79794b772b6.png)
+<img src="https://user-images.githubusercontent.com/52780573/102655989-3599b680-4199-11eb-9f91-dc037b4d0708.gif" data-canonical-src="" width="800" height="500" />
 
-![Screenshot from 2020-12-19 01-10-31](https://user-images.githubusercontent.com/52780573/102656137-6974dc00-4199-11eb-9e84-b6025ccfa1bd.png)
+<img src="https://user-images.githubusercontent.com/52780573/102656071-582bcf80-4199-11eb-9414-a79794b772b6.png" data-canonical-src="" width="800" height="500" />
 
-![Screenshot from 2020-12-19 01-11-16](https://user-images.githubusercontent.com/52780573/102656219-86a9aa80-4199-11eb-8c35-fad20ebb2134.png)
+<img src="https://user-images.githubusercontent.com/52780573/102656137-6974dc00-4199-11eb-9e84-b6025ccfa1bd.png" data-canonical-src="" width="800" height="500" />
+
+<img src="https://user-images.githubusercontent.com/52780573/102656219-86a9aa80-4199-11eb-8c35-fad20ebb2134.png" data-canonical-src="" width="800" height="500" />
 
 
 ## To do
