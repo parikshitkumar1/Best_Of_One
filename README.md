@@ -1,8 +1,8 @@
 ---
 # Best Of One
-Play a best of one gesture based rock papers scissors game against the computer
+Play a best of one gesture based rock paper scissors game against the computer
 ## Motivation
-To make the pandemic slightly less boring by playing a best of one game of rock papers scissors against the computer
+To make the pandemic slightly less boring by playing a best of one game of rock paper scissors against the computer
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
