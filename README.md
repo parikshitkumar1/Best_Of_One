@@ -12,9 +12,6 @@ $ pip3 install -r requirements.txt
 ```python
 $ python3 rps.py
 ```
-## Extras
-OpenCV file derived from a similar file which can be found here: https://github.com/SouravJohar/rock-paper-scissors/blob/master/play.py </br> </br>
-Extra Requirements: well lit area, white background,right hand is preferred.</br> </br>
 ## Examples
 
 <img src="https://user-images.githubusercontent.com/52780573/102655989-3599b680-4199-11eb-9f91-dc037b4d0708.gif" data-canonical-src="" width="800" height="500" />
