@@ -23,7 +23,7 @@ $ python3 rps.py
 <img src="https://user-images.githubusercontent.com/52780573/102656219-86a9aa80-4199-11eb-8c35-fad20ebb2134.png" data-canonical-src="" width="800" height="500" />
 
 
-## To do
+## Might Do
 - [ ] Get more data for a better none class and less change susceptibility
 - [ ] Retrain with more data that has different backgrounds
 
